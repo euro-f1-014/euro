@@ -17,7 +17,7 @@ verification of transaction | Prüfung von Transaktionen
 legitimate purchases | rechtmäßige Käufe
 transaction fees | Transaktionsgebühren
 currencies | Währungen
-credibility | Glaubwürdigkeit/Kreditwürdigkeit
+credibility | Glaubwürdigkeit
 exchange |Austausch/Wechsel
 to retrieve | abrufen
 gyrations | Schwankungen
@@ -63,7 +63,7 @@ faith in exchanges | der Glaube an die Börsen
 to withdraw | zurückziehen, weg-/entnehmen
 decline in transaction volume | Rückgang des Geschäfts-/Transaktionsvolumens
 demise as a currency | Untergang der/als Währung
-reputable exchanges | namenhafte Börsen
+reputable exchanges | namhafte Börsen
 institutional holdings | institutionelle Beteiligungen
 to meet liquidity demand | die Liquiditätsnachfrage erfüllen
 central banks | Zentralbanken
