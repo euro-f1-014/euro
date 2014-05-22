@@ -24,3 +24,28 @@ Somit löst Bitcoin ein essenzielles Problem der digitalen Welt:
 Bitcoins lassen sich übertragen, ohne dass Zwischenhändler vorher sicherstellen müssen, dass sie nicht kopiert oder mehrfach ausgegeben werden.
 Im Gegensatz zu herkömmlichen Zahlungsmechanismen, die sich durch den Schutz nach außen sichern, ist Bitcoin zusätzlich offen für alle.
 Genau wie das Internet kann jeder das System nutzen, ohne um Erlaubnis fragen zu müssen.
+
+Diese Möglichkeit könnte zu einer Fülle von neuen Anwendungen der Technologie hinter Bitcoin führen, um die Eigentümerschaft von anderen Währungen, aber auch beliebigen anderen Finanzanlagen zu übertragen.
+Dezentrale Börsen könnten einen direkten Handel zwischen Vermögensinhabern ohne Zwischenhändler ermöglichen.
+Zusätzlich könnte die Übertragung von Geld an programmierte Bedingungen, wie die nötige Zustimmung einer dritten Person, geknüpft werden.
+
+Auch der Besitz eines Autos könnte von einem Bitcoin oder einem kleinen Teil davon repräsentiert werden.
+Das Auto würde nur mit einem Schlüssel funktionieren, auf dem ein bestimmtes Bitcoin gespeichert ist.
+Dieser Schlüssel könnte dann verkauft oder über einen bestimmten Zeitraum vermietet werden.
+Diese Art von „intelligentem Eigentum“ würde die Besitzverwaltung und den Zugang zu physischen Gütern deutlich erleichtern, und ein globales Besitzregister in der Blockchain aufbauen.
+
+Eine wachsende Zahl an neuen Projekten arbeitet bereits daran, diese Ideen umzusetzen.
+Zum Beispiel sollen Coloured Coins und Mastercoin den Handel mit anderen Finanzanlagen wie Aktien oder Anleihen ermöglichen.
+Am ehrgeizigsten ist das Projekt Ethereum: Inspiriert von Bitcoin wird es eine neue Blockchain beginnen, welche die freie Integrierung von Finanzinstrumenten und anderen Verträgen durch eine vollwertige Programmiersprache ermöglicht.
+
+Auch die Banken, die Bitcoin als Währung bisher eher gemieden haben, untersuchen nun langsam Möglichkeiten, die Technologie für andere Zwecke einzusetzen.
+So könnten weltweit operierende Banken zum Beispiel ein ähnliches System nutzen, um Kapital zwischen Filialen zu übertragen, oder sogar ihre eigenen Kryptowährungen herausgeben.
+
+Der Wandel von Bitcoin zu einer generellen Finanzplattform birgt jedoch auch Risiken.
+Mit immer weiteren neuen Anwendungen des Netzwerks könnte es schnell seine Maximalkapazität von 300.000 Transaktionen pro Tag erreichen.
+Ebenfalls wird die Blockchain, deren Größe sich im letzten Jahr auf 15 GB verdreifacht hat, weiter anwachsen.
+Somit werden immer weniger Bitcoin-Nutzer eine vollständige Kopie der Blockchain speichern können, was sich wiederum negativ auf die Stabilität des Netzwerks auswirkt.
+
+Historisch betrachtet sollte dies jedoch kein Problem darstellen.
+Als nach der Erfindung des Webbrowsers vor 2 Jahrzehnten Millionen von Menschen zum ersten Mal online gingen, erwarteten Experten den Zusammenbruch des Internets, der jedoch dank wiederholter technischer Fortschritte ausblieb.
+Selbst wenn Bitcoin doch zusammenbrechen sollte, wird ein ähnliches System höchstwahrscheinlich seinen Platz einnehmen.
